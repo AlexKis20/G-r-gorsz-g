@@ -1,53 +1,53 @@
 let eteltomb = [
     {
-        "etelNeve":"Szuvláki, a nyárs",
+        "etelNeve":"SzuvlÃ¡ki, a nyÃ¡rs",
         "kep":"1.jpg",
-        "szoveg":"A souvlakiban a sertéshús vagy csirkemell vékonyra szeletelve és fqszerezve kerül rá a nyárs, majd pedig grillezik. Ennek a hagyományos ételnek a sikere az egyszerqségében és persze fantasztikus ízében rejlik."
+        "szoveg":"A souvlakiban a sertÃ©shÃºs vagy csirkemell vÃ©konyra szeletelve Ã©s fÅ±szerezve kerÃ¼l rÃ¡ a nyÃ¡rs, majd pedig grillezik. Ennek a hagyomÃ¡nyos Ã©telnek a sikere az egyszerÅ±sÃ©gÃ©ben Ã©s persze fantasztikus Ã­zÃ©ben rejlik."
     },
     {
-        "etelNeve":"Muszaka, a rakott padlizsán",
+        "etelNeve":"Muszaka, a rakott padlizsÃ¡n",
         "kep":"2.jpg",
-        "szoveg":"A tradicionális görög konyha alapköve Moussaka, ami egy húsos és padlizsános rakott komfortétel. Kedvelt és ismert fogás természetesen Görögországon kívül is, nagyszerq ízvilág és textúra jellemezi, úgyhogy gourmet kalandra fel!"
+        "szoveg":"A tradicionÃ¡lis gÃ¶rÃ¶g konyha alapkÃ¶ve Moussaka, ami egy hÃºsos Ã©s padlizsÃ¡nos rakott komfortÃ©tel. Kedvelt Ã©s ismert fogÃ¡s termÃ©szetesen GÃ¶rÃ¶gorszÃ¡gon kÃ­vÃ¼l is, nagyszerÅ± Ã­zvilÃ¡g Ã©s textÃºra jellemezi, Ãºgyhogy gourmet kalandra fel!"
     },
     {
-        "etelNeve":"Tzatziki, a szósz",
+        "etelNeve":"Tzatziki, a szÃ³sz",
         "kep":"3.jpg",
-        "szoveg":"A Tzatziki (eredetileg dzadzíki), egy hqsítQ joghurtos szósz, melyet fokhagymával, uborkával és friss fqszernövényekkel készítenek. Ideális köret grillezett húsokhoz vagy pitához. A tzatziki egy hqsítQ, frissítQ szósz, talán a görög szószok közül a legismertebb."
+        "szoveg":"A Tzatziki (eredetileg dzadzÃ­ki), egy hÅ±sÃ­tÅ‘ joghurtos szÃ³sz, melyet fokhagymÃ¡val, uborkÃ¡val Ã©s friss fÅ±szernÃ¶vÃ©nyekkel kÃ©szÃ­tenek. IdeÃ¡lis kÃ¶ret grillezett hÃºsokhoz vagy pitÃ¡hoz. A tzatziki egy hÅ±sÃ­tÅ‘, frissÃ­tÅ‘ szÃ³sz, talÃ¡n a gÃ¶rÃ¶g szÃ³szok kÃ¶zÃ¼l a legismertebb."
     },
     {
         "etelNeve":"Spanakopita, a pite",
         "kep":"4.jpg",
-        "szoveg":"A görög konyha egyik különlegessége, amit talán itthon kevesen ismernek vagy jobban mondva kevésbé ismert fogásként tartanak számon, a spanakopita, ami valójában egy spenótos és sajtos pite. Könnyq étel, melyet több réteg vékony tészta borítja és tökéletes uzsonna vagy tízórai fogásként elfogyasztani."
+        "szoveg":"A gÃ¶rÃ¶g konyha egyik kÃ¼lÃ¶nlegessÃ©ge, amit talÃ¡n itthon kevesen ismernek vagy jobban mondva kevÃ©sbÃ© ismert fogÃ¡skÃ©nt tartanak szÃ¡mon, a spanakopita, ami valÃ³jÃ¡ban egy spenÃ³tos Ã©s sajtos pite. KÃ¶nnyÅ± Ã©tel, melyet tÃ¶bb rÃ©teg vÃ©kony tÃ©szta borÃ­tja Ã©s tÃ¶kÃ©letes uzsonna vagy tÃ­zÃ³rai fogÃ¡skÃ©nt elfogyasztani."
     },
     {
         "etelNeve":"Gyros",
         "kep":"5.jpg",
-        "szoveg":"Azt joggal mondhatjuk, hogy a gyros, mint étel a leginkább ismert számunkra, viszont az már kevésbé biztos, hogy az ikonikus, népszerq ételbQl a görög változatot ismerjük a legjobban. A gyros hasonlít a Souvlakira, de a húst függQleges forgón sütik, majd vékony szeletekre vágják. A tálalás során gyakran használnak tzatzikit és pitát is. A fqszeres, grillezett hús különlegessége, hogy függQlegesen nyárson forgatják, majd a megsült részt folyamatosan legvágják."
+        "szoveg":"Azt joggal mondhatjuk, hogy a gyros, mint Ã©tel a leginkÃ¡bb ismert szÃ¡munkra, viszont az mÃ¡r kevÃ©sbÃ© biztos, hogy az ikonikus, nÃ©pszerÅ± Ã©telbÅ‘l a gÃ¶rÃ¶g vÃ¡ltozatot ismerjÃ¼k a legjobban. A gyros hasonlÃ­t a Souvlakira, de a hÃºst fÃ¼ggÅ‘leges forgÃ³n sÃ¼tik, majd vÃ©kony szeletekre vÃ¡gjÃ¡k. A tÃ¡lalÃ¡s sorÃ¡n gyakran hasznÃ¡lnak tzatzikit Ã©s pitÃ¡t is. A fÅ±szeres, grillezett hÃºs kÃ¼lÃ¶nlegessÃ©ge, hogy fÃ¼ggÅ‘legesen nyÃ¡rson forgatjÃ¡k, majd a megsÃ¼lt rÃ©szt folyamatosan legvÃ¡gjÃ¡k."
     },
     {
-        "etelNeve":"Dolmades, a töltött finomság",
+        "etelNeve":"Dolmades, a tÃ¶ltÃ¶tt finomsÃ¡g",
         "kep":"6.jpg",
-        "szoveg":"A görögnek is van töltött káposzta kategóriájába esQ finomságuk, csak épp szQlQlevelekbe tekerik a fqszeres rizses húst, amit úgy hívnak, hogy dolmades. További eltérés, hogy általában hidegen tálalják és citrommal locsolják meg, illetve leginkább elQételként tálalják."
+        "szoveg":"A gÃ¶rÃ¶gnek is van tÃ¶ltÃ¶tt kÃ¡poszta kategÃ³riÃ¡jÃ¡ba esÅ‘ finomsÃ¡guk, csak Ã©pp szÅ‘lÅ‘levelekbe tekerik a fÅ±szeres rizses hÃºst, amit Ãºgy hÃ­vnak, hogy dolmades. TovÃ¡bbi eltÃ©rÃ©s, hogy Ã¡ltalÃ¡ban hidegen tÃ¡laljÃ¡k Ã©s citrommal locsoljÃ¡k meg, illetve leginkÃ¡bb elÅ‘Ã©telkÃ©nt tÃ¡laljÃ¡k."
     },
     {
         "etelNeve":"Feta sajt",
         "kep":"7.jpg",
-        "szoveg":"Ha egy görög sajtot kell mondanunk, akkor természetesen mindenkinek a feta sajt jut eszébe. A fehér tömbben - mely tökéletes kiegészítQje a salátákatnak, pitáknak és a leveles tésztáknak -, egyesülnek a sós és édes ízek."
+        "szoveg":"Ha egy gÃ¶rÃ¶g sajtot kell mondanunk, akkor termÃ©szetesen mindenkinek a feta sajt jut eszÃ©be. A fehÃ©r tÃ¶mbben - mely tÃ¶kÃ©letes kiegÃ©szÃ­tÅ‘je a salÃ¡tÃ¡katnak, pitÃ¡knak Ã©s a leveles tÃ©sztÃ¡knak -, egyesÃ¼lnek a sÃ³s Ã©s Ã©des Ã­zek."
     },
     {
-        "etelNeve":"Baklava, az édesség",
+        "etelNeve":"Baklava, az Ã©dessÃ©g",
         "kep":"8.jpg",
-        "szoveg":"Kanyarodjunk vissza a leveles tésztás görög világhoz, azon belül is a baklava süteményhez, amely a tészta mellett dióból és mézbQl készül és tetejét is dió vagy épp mandula dísziti."
+        "szoveg":"Kanyarodjunk vissza a leveles tÃ©sztÃ¡s gÃ¶rÃ¶g vilÃ¡ghoz, azon belÃ¼l is a baklava sÃ¼temÃ©nyhez, amely a tÃ©szta mellett diÃ³bÃ³l Ã©s mÃ©zbÅ‘l kÃ©szÃ¼l Ã©s tetejÃ©t is diÃ³ vagy Ã©pp mandula dÃ­sziti."
     },
     {
-        "etelNeve":"Görög saláta",
+        "etelNeve":"GÃ¶rÃ¶g salÃ¡ta",
         "kep":"9.jpg",
-        "szoveg":"El is érkeztünk a salátákhoz, sQt magához a világhódító, ikonikus görög salátához, amely egy egyszerq, de önmagában is ízletes finomság."
+        "szoveg":"El is Ã©rkeztÃ¼nk a salÃ¡tÃ¡khoz, sÅ‘t magÃ¡hoz a vilÃ¡ghÃ³dÃ­tÃ³, ikonikus gÃ¶rÃ¶g salÃ¡tÃ¡hoz, amely egy egyszerÅ±, de Ã¶nmagÃ¡ban is Ã­zletes finomsÃ¡g."
     },
     {
         "etelNeve":"Kleftiko",
         "kep":"10.jpg",
-        "szoveg":"Hagyományos lassú sütéssel készül ez az étel, ahol a húst fokhagymával és fqszerekkel tqzdelik, majd puhára sütik. A neve eredetileg a 'rablók' vagy 'banditák' szóra utal, mivel a hagyomány szerint ez a fogást a görög szabadságharc idején alkották meg a hegyi gerillaharcosok, akik titokban készítették az ételt a táboraikban, hogy ne vegye észre az ellenség."
+        "szoveg":"HagyomÃ¡nyos lassÃº sÃ¼tÃ©ssel kÃ©szÃ¼l ez az Ã©tel, ahol a hÃºst fokhagymÃ¡val Ã©s fÅ±szerekkel tÅ±zdelik, majd puhÃ¡ra sÃ¼tik. A neve eredetileg a 'rablÃ³k' vagy 'banditÃ¡k' szÃ³ra utal, mivel a hagyomÃ¡ny szerint ez a fogÃ¡st a gÃ¶rÃ¶g szabadsÃ¡gharc idejÃ©n alkottÃ¡k meg a hegyi gerillaharcosok, akik titokban kÃ©szÃ­tettÃ©k az Ã©telt a tÃ¡boraikban, hogy ne vegye Ã©szre az ellensÃ©g."
     }
     
 ]

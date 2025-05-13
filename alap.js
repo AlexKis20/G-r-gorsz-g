@@ -1,23 +1,23 @@
 document.getElementById("Menu").innerHTML=`
  <nav class="navbar navbar-expand-sm bg-dark navbar-dark">
         <div class="container-fluid">
-          <a class="navbar-brand" href="index.html">Görögország</a>
+          <a class="navbar-brand" href="index.html">GÃ¶rÃ¶gorszÃ¡g</a>
           <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#collapsibleNavbar">
             <span class="navbar-toggler-icon"></span>
           </button>
           <div class="collapse navbar-collapse" id="collapsibleNavbar">
             <ul class="navbar-nav">
               <li class="nav-item">
-                <a class="nav-link" href="ételek.html">Ételek</a>
+                <a class="nav-link" href="Ã©telek.html">Ã‰telek</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="látnivalók.html">Látványosság</a>
+                <a class="nav-link" href="lÃ¡tnivalÃ³k.html">LÃ¡tvÃ¡nyossÃ¡g</a>
               </li>
               <li class="nav-item">
                 <a class="nav-link" href="#">Templomok</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="#">Múzeumok</a>
+                <a class="nav-link" href="#">MÃºzeumok</a>
               </li>
             </ul>
           </div>
