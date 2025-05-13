@@ -14,10 +14,10 @@ document.getElementById("Menu").innerHTML=`
                 <a class="nav-link" href="látnivalók.html">Látványosság</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="#">Templomok</a>
+                <a class="nav-link" href="Templomok.html">Templomok</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="#">Múzeumok</a>
+                <a class="nav-link" href="muzeum.html">Múzeumok</a>
               </li>
             </ul>
           </div>

@@ -1,0 +1,9 @@
+body{
+    background-image: url(hatter4.jpg);
+    
+    background-size: cover;
+}
+th,td{
+    color: rgb(149, 0, 0);
+    font-weight: bold;
+}
