@@ -68,9 +68,10 @@ for (const elem of látnivalótomb) {
     sz+=`
     <div class="col-sm-12">
     <div class="dobozdiv">
-    <div style="font-weight: bold;">${elem.Neve}</div>
+    <div style="font-weight: bold; color:rgb(182, 5, 5); font-size: 18px">${elem.Neve}</div>
     <div><img class="img-fluid" src="látnivaló/${elem.kep}" ></div>
     <div>${elem.szoveg}</div>
+    <hr style="height: 5px;">
     </div>
     </div>
     `
